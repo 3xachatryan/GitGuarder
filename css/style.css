@@ -871,7 +871,7 @@ a:focus {
 .info_section .info_form form button {
   padding: 8px 35px;
   outline: none;
-  border: none;
+  border: 1px solid #ff4d4d;
   color: #ffffff;
   background: #ff4d4d;
   border-radius: 30px;
