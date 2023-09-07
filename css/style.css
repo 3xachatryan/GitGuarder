@@ -601,7 +601,8 @@ a:focus {
 
 .client_section .carousel-control-prev:hover,
 .client_section .carousel-control-next:hover {
-  background-color: #f1db25;
+  background-color: #ff4d4d;
+  transition: .3s;
 }
 
 .client_section .carousel-control-prev {
