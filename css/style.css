@@ -880,7 +880,7 @@ a:focus {
   transition: .3s;
 }
 
-.info_section .info_form form button{
+.info_section .info_form form button:hover{
   background: transparent;
   color: #ff4d4d;
   border: 1px solid #ff4d4d;
