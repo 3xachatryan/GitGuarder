@@ -777,7 +777,7 @@ a:focus {
 .team_section .btn-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #f1db25;
+  background-color: #ff4d4d;
   color: #ffffff;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -786,8 +786,8 @@ a:focus {
 
 .team_section .btn-box a:hover {
   background-color: transparent;
-  border-color: #f1db25;
-  color: #f1db25;
+  border-color: #ff4d4d;
+  color: #ff4d4d;
 }
 
 .info_section {
